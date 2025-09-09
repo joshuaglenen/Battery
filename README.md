@@ -1,4 +1,4 @@
-#5S2P Drill Battery
+# 5S2P Drill Battery
 
 This project is a battey pack made compatable with DeWALT 20V max tools. It has 21V max, 18.5V Nominal, 5.0Ah, 10 18650 Lithium Ion Cells, 50A Continuous Load Rating, Battery Monitoring System. The pcb provides equal cell charging, overcharge/overdischarge protection, current monitoring, reverse polarity protection, overheating protection The 3D model was constructed in Fusion 360 and the file is included.
 
