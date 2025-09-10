@@ -28,13 +28,19 @@ Fig 3: 3D Image Side
 Fig 4: 3D Image Top
 
 
+<img width="1520" height="867" alt="5S2P Pack" src="https://github.com/user-attachments/assets/daf06bb9-cba7-46d7-8b07-110fa9f03f76" />
+
+
+Fig 5: 3D Assembly
+
+
 <img width="3507" height="2480" alt="Untitled" src="https://github.com/user-attachments/assets/244f1abe-5b86-4847-afd7-a7f1ed319369" />
 
 
-Fig 5: Circuit Diagram for Battery Management System
+Fig 6: Circuit Diagram for Battery Management System
 
 
 <img width="976" height="602" alt="Screenshot 2025-09-08 222813" src="https://github.com/user-attachments/assets/dd1f1d65-4821-4f93-9f7a-b766751bc9c4" />
 
 
-Fig 6: PCB for Battery Managment System
+Fig 7: PCB for Battery Managment System
